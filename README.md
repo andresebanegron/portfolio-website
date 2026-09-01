@@ -7,7 +7,7 @@ Personal portfolio website showcasing selected web and desktop development proje
 - **Mikale Art & Craft** — full-stack PHP/MySQL e-commerce application with Stripe Checkout, order tracking, and administration tools.
 - **Appointment Booking System** — PHP/MySQL scheduling application with availability management and administrative controls.
 - **Momentum** — privacy-focused offline task manager built with Electron and JavaScript.
-- **Rule No. 3 Desktop Companion** — interactive Electron desktop companion with animated states and IPC-based desktop behavior.
+  
 
 ## Built with
 
